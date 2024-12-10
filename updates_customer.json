@@ -2,9 +2,9 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "1.401",
+      "latest-version": "1.402",
       "download-url": "https://github.com/Hessian-matrix/viobot_ui/raw/refs/heads/main/Viobot_customer_Setup.exe",
-      "changelog": "1.增加gnss",
+      "changelog": "1.支持更新地址为https",
       "mandatory": true
     },
     "osx": {
