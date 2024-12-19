@@ -2,9 +2,9 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "1.53",
+      "latest-version": "1.54",
       "download-url": "https://github.com/Hessian-matrix/viobot_ui/raw/refs/heads/main/Viobot_customer_Setup.exe",
-      "changelog": "1.baton_mini版本增加按钮可下载日志",
+      "changelog": "1.设置页在线更新增加15s倒数弹窗\n2.record标签页当baton_mini版本时不可用",
       "mandatory": true
     },
     "osx": {
