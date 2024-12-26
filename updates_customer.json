@@ -3,7 +3,7 @@
     "windows": {
       "open-url": "",
       "latest-version": "1.55",
-      "download-url": "https://github.com/Hessian-matrix/viobot_ui/raw/refs/heads/main/Viobot_customer_Setup.exe",
+      "download-url": "https://www.hessian-matrix.com/wp-content/uploads/viobot/Viobot_customer_Setup.exe",
       "changelog": "1.设置页的baton界面频率下拉框优化",
       "mandatory": true
     },
